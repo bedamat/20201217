@@ -9,3 +9,6 @@ ich schreib mal hier was rein und dann gibt's nen pull request..
 
 
 mal sehen was mit der Mutter passiert...
+
+wenn sie auf den anderen Ast rüber klettert... 
+
